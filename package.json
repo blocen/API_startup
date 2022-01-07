@@ -1,0 +1,23 @@
+{
+  "name": "api_startup",
+  "version": "1.0.0",
+  "description": "Here we go...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocen/API_startup.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blocen/API_startup/issues"
+  },
+  "homepage": "https://github.com/blocen/API_startup#readme"
+}
